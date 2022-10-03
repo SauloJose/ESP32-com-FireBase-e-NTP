@@ -5,12 +5,12 @@
 #include "time.h"
 
 //defines para conectar a internet
-#define WIFI_SSID "Almeida/Aquino"
-#define WIFI_PASSWORD "sarah2020"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 //Para acessar dados do firebase
-#define FIREBASE_HOST "https://plataforma-atlas---sensor-01-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "BHeYTtSaywhPnW0IujiXJUX2qclqSmxDiR5Wc5xq"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 
 const char* ntpServer = "pool.ntp.org"; //host que irá retornar o tempo Unix para meu micro.
